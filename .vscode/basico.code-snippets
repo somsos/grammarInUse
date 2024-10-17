@@ -1,0 +1,40 @@
+/*
+//ORIGINAL
+
+"body": [
+	"\"\nfront\n  front\n    front\n\n\"|\"\n\nback\n  back\n    back\n\n\"|\"title\"|\"difficulty:easy-medium-hard\"|\"tags:tag1, tag2\"|\"status:noClue-almost-learned-carved\"|\"Ctrl+Shift+I\"|\"TipFront\"|\"TipBack\"|\"imageFront.png\"|\"imageBack.png\"|\"audioFront.mp3\"|\"audioBack.mp3\"|\"relevance:meh-ok-major\"|\"source\"",
+],
+
+*/
+
+
+{
+
+	"Anki csv": {
+    "scope": "csv, csv (pipe)",
+		"prefix": "ankicsv",
+		"body": [
+			"\"\nfront\n  front\n    front\n\"|\"\nback\n  back\n    back\n\"|\"29_■■ mayAndMight\"|\"easy\"|\"Unit29 mayAndMight\"|\"learned\"|\"Ctrl+Shift+I\"|\"TipFront\"|\"TipBack\"|\"imageFront.png\"|\"imageBack.png\"|\"audioFront.mp3\"|\"■■■■■■mp3\"|\"ok\"|\"Book EnglishGrammarInUse5ed\"",
+		],
+		"description": "Anki card with full info"
+	},
+
+	"Separar titulo": {
+		"scope": "md, markdown, csv (pipe)",
+		"prefix": "septit",
+		"body": [
+			"#■■■■■■■■■■■■ XXXX",
+		],
+		"description": "Separar titulo de segundo nivel"
+	},
+
+	"Separar capitulo": {
+		"scope": "md, markdown, csv (pipe)",
+		"prefix": "sepcap",
+		"body": [
+			"#■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■\n#XXXXX\n#■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
+		],
+		"description": "Separar Capitulo"
+	},	
+
+}

@@ -14,7 +14,7 @@
     "scope": "csv, csv (pipe)",
 		"prefix": "ankicsv",
 		"body": [
-			"\"\nfront\n  front\n    front\n\"|\"\nback\n  back\n    back\n\"|\"45_■■ HeIsSaidTo_heIsSupposed\"|\"easy\"|\"Unit45 HeIsSaidTo_heIsSupposed\"|\"almost\"|\"Ctrl+Shift+I\"|\"TipFront\"|\"TipBack\"|\"imageFront.png\"|\"imageBack.png\"|\"audioFront.mp3\"|\"■■■■■■mp3\"|\"ok\"|\"Book EnglishGrammarInUse5ed\"",
+			"\"\nfront\n  front\n    front\n\"|\"\nback\n  back\n    back\n\"|\"■■_■■\"|\"easy\"|\"Unit■■ ■■■■■\"|\"almost\"|\"Ctrl+Shift+I\"|\"TipFront\"|\"TipBack\"|\"imageFront.png\"|\"imageBack.png\"|\"audioFront.mp3\"|\"■■■■■■mp3\"|\"ok\"|\"Book EnglishGrammarInUse5ed\"",
 		],
 		"description": "Anki card with full info"
 	},
